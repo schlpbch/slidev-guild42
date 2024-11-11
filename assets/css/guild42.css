@@ -1,0 +1,17 @@
+body {
+  font-family: "IBM Plex Mono"; 
+  color: "white";
+  text-decoration: "none"
+}
+
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(to right, rgb(96, 165, 250), rgb(6, 182, 212));
+  letter-spacing: -1.8px;
+  font-weight: 700;
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
