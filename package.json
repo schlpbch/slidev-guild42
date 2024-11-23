@@ -10,13 +10,13 @@
     "export": "slidev export --dark slides-2024-11-18.md"
   },
   "dependencies": {
-    "@slidev/cli": "^0.50.0-beta.5",
+    "@slidev/cli": "^0.50.0-beta.7",
     "@slidev/theme-apple-basic": "^0.25.1",
-    "vue": "^3.5.12"
+    "vue": "^3.5.13"
   },
   "devDependencies": {
     "commitizen": "^4.3.1",
-    "husky": "^9.1.6"
+    "husky": "^9.1.7"
   },
   "repository": {
     "type": "git",
