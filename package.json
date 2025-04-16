@@ -10,7 +10,7 @@
     "export": "slidev export --dark slides-2024-11-18.md"
   },
   "dependencies": {
-    "@slidev/cli": "^51.0.2",
+    "@slidev/cli": "^51.5.0",
     "@slidev/theme-apple-basic": "^0.25.1",
     "vue": "^3.5.13"
   },
