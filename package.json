@@ -6,13 +6,15 @@
   "private": true,
   "scripts": {
     "build": "slidev build slides-2024-11-18.md",
-    "dev": "slidev --open slides-2024-11-18.md",
+    "dev": "slidev --open -f --log info slides-2024-11-18.md",
     "export": "slidev export --dark slides-2024-11-18.md"
   },
   "dependencies": {
-    "@slidev/cli": "^51.5.0",
+    "@slidev/cli": "^51.8.2",
     "@slidev/theme-apple-basic": "^0.25.1",
-    "vue": "^3.5.13"
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/theme-seriph": "^0.25.0",
+    "vue": "^3.5.17"
   },
   "devDependencies": {
     "commitizen": "^4.3.1",
