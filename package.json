@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build slides-2024-11-18.md",
-    "dev": "slidev --open -f --log info slides-2024-11-18.md",
+    "dev": "slidev --open slides-2024-11-18.md",
     "export": "slidev export --dark slides-2024-11-18.md"
   },
   "dependencies": {
